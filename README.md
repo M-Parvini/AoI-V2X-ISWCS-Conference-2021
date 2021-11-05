@@ -10,6 +10,10 @@ Written by  : Mohammad Parvini, M.Sc. student at Tarbiat Modares University.
 ---------------------------------------------------------------------------------------
 * We have built our simulation following the urban case defined in Annex A of 
      3GPP, TS 36.885, "Study on LTE-based V2X Services".
+
+* The vehicular simulation environment of this paper is coded on top of the simulation environment designed by **_[Le Liang](https://github.com/le-liang)_** from Southeast University. 
+
+* The twin delayed deep deterministic policy gradient (TD3) framework is built on top of the materials developed by  **_[Phil Tabor](https://github.com/philtabor)_**, Physicist, and Machine Learning Engineer.
 ---------------------------------------------------------------------------------------
 ### prerequisites:
 * python 3.7 or higher
