@@ -16,47 +16,24 @@ Written by  : Mohammad Parvini, M.Sc. student at Tarbiat Modares University.
 * The twin delayed deep deterministic policy gradient (TD3) framework is built on top of the materials developed by  **_[Phil Tabor](https://github.com/philtabor)_**, Physicist, and Machine Learning Engineer.
 ---------------------------------------------------------------------------------------
 ### prerequisites:
-* python 3.7 or higher
-* PyTorch 1.7 or higher + CUDA
-* It is recommended that the latest drivers be installed for the GPU.
----------------------------------------------------------------------------------------
 
-In order to run the code:
-
-* Please make sure that you have created the following directories:
-	1) ...\Classes\tmp\ddpg
-	2) ...\model\marl_model
-
-The final results and the network weights will be saved in these directories.
-
-
-1- Change the number of vehicles, platoon sizes, and intra-platoon distance
-
-2- Once you run the code, simulation results will be saved into the directory: 
-   ...\model\marl_model. You can import these data wherever you want (Matlab, python, etc.) 
-   and plot the results. Furthermore, the weights of the neural networks will be saved into 
-   the directory: ...\Classes\tmp\ddpg. 
-
-Instructions: 
-
-Please make sure that the following prerequisites are met:
-
-python 3.7 or higher
-
-PyTorch 1.7 or higher + CUDA
-
-It is recommended that the latest drivers be installed for the GPU.
-
-In order to run the code:
+    1) python 3.7 or higher
+    2) PyTorch 1.7 or higher + CUDA
+    3) It is recommended that the latest drivers be installed for the GPU.
 
 ***
 
 Please make sure that you have created the following directories:
 
     1) ...\Classes\tmp\ddpg
-
     2) ...\model\marl_model
 
-The final results and the network weights will be saved in these directories.
+The final results and the network weights will be saved in these directories. Once you run the code, simulation results will be saved into the directory: 
+   ...\model\marl_model. You can import these data wherever you want (Matlab, python, etc.) 
+   and plot the results. Furthermore, the weights of the neural networks will be saved into 
+   the directory: ...\Classes\tmp\ddpg. 
  
-***
+
+## Good Luck with your simulations!!!
+
+
