@@ -23,7 +23,7 @@ Written by  : Mohammad Parvini, M.Sc. student at Tarbiat Modares University.
 
 ***
 
-Please make sure that you have created the following directories:
+### Please make sure that you have created the following directories:
 
     1) ...\Classes\tmp\ddpg
     2) ...\model\marl_model
